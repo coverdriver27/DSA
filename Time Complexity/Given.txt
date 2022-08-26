@@ -1,0 +1,42 @@
+Given 
+
+For n= 20000000 it takes 225671780
+Processor is: 4
+For n= 30000000 it takes 319423388
+Processor is: 4
+For n= 40000000 it takes 415830995
+Processor is: 4
+For n= 50000000 it takes 515627818
+Processor is: 4
+For n= 60000000 it takes 621025103
+Processor is: 4
+For n= 70000000 it takes 727586909
+Processor is: 4
+For n= 80000000 it takes 826753936
+Processor is: 4
+For n= 90000000 it takes 930502061
+Processor is: 4
+For n= 100000000 it takes 1071962401
+Processor is: 4
+For n= 110000000 it takes 1213937524
+Processor is: 4
+For n= 120000000 it takes 1336769236
+Processor is: 4
+For n= 130000000 it takes 1344776188
+Processor is: 4
+For n= 140000000 it takes 1468317927
+Processor is: 4
+For n= 150000000 it takes 1550473020
+Processor is: 4
+For n= 160000000 it takes 1894597151
+Processor is: 4
+For n= 170000000 it takes 1770158483
+Processor is: 4
+For n= 180000000 it takes 1868072873
+Processor is: 4
+For n= 190000000 it takes 1969451608
+Processor is: 4
+For n= 200000000 it takes 2124556927
+Processor is: 4
+For n= 210000000 it takes 2201401877
+Processor is: 4

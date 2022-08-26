@@ -1,0 +1,42 @@
+Sequential Stream
+
+For n= 20000000 it takes 305304901
+Processor is: 4
+For n= 30000000 it takes 378869158
+Processor is: 4
+For n= 40000000 it takes 498918725
+Processor is: 4
+For n= 50000000 it takes 627064288
+Processor is: 4
+For n= 60000000 it takes 749246261
+Processor is: 4
+For n= 70000000 it takes 875715304
+Processor is: 4
+For n= 80000000 it takes 997603248
+Processor is: 4
+For n= 90000000 it takes 1123977681
+Processor is: 4
+For n= 100000000 it takes 1256441388
+Processor is: 4
+For n= 110000000 it takes 1386810256
+Processor is: 4
+For n= 120000000 it takes 1495357452
+Processor is: 4
+For n= 130000000 it takes 1619119481
+Processor is: 4
+For n= 140000000 it takes 1990820178
+Processor is: 4
+For n= 150000000 it takes 1866446439
+Processor is: 4
+For n= 160000000 it takes 2003037679
+Processor is: 4
+For n= 170000000 it takes 2128845390
+Processor is: 4
+For n= 180000000 it takes 2257409736
+Processor is: 4
+For n= 190000000 it takes 2384642140
+Processor is: 4
+For n= 200000000 it takes 2522343641
+Processor is: 4
+For n= 210000000 it takes 2617514844
+Processor is: 4

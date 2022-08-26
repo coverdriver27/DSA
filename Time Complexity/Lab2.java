@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 
 /**
  *
- * @author barbz808
+ * @author Dhulian.p
  */
 public class Lab2 {
  

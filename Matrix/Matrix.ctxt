@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Matrix
+comment1.params=Row\ Col
+comment1.target=Matrix(int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=java.lang.Object\ Clone()
+comment12.params=value
+comment12.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=Matrix()
+comment3.params=input
+comment3.target=Matrix\ Add(Matrix)
+comment4.params=input
+comment4.target=Matrix(int[][])
+comment5.params=input
+comment5.target=Matrix\ Dot(Matrix)
+comment6.params=input
+comment6.target=Matrix\ Substract(Matrix)
+comment7.params=input
+comment7.target=Matrix\ Hadamard(Matrix)
+comment8.params=A\ B
+comment8.target=boolean\ checkForValidSHA(Matrix,\ Matrix)
+comment9.params=A\ B
+comment9.target=boolean\ checkForValidDOT(Matrix,\ Matrix)
+numComments=13

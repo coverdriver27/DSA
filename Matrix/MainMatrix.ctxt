@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainMatrix
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ test()
+comment3.params=A\ B
+comment3.target=Matrix\ performOperation(Matrix,\ Matrix)
+comment4.params=A\ B\ op
+comment4.target=Matrix\ calculate(Matrix,\ Matrix,\ int)
+comment5.params=A\ B\ op
+comment5.target=boolean\ isValid(Matrix,\ Matrix,\ int)
+comment6.params=
+comment6.target=int\ selectOP()
+comment7.params=matrixName
+comment7.target=Matrix\ getMatrix(java.lang.String)
+numComments=8

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Project2a
+comment1.params=a\ b\ n\ f
+comment1.target=double\ rectangularLeft(double,\ double,\ int,\ Project2a.FPFunction)
+comment10.params=n
+comment10.target=double\ eval(double)
+comment2.params=a\ b\ n\ f
+comment2.target=double\ rectangularMidpoint(double,\ double,\ int,\ Project2a.FPFunction)
+comment3.params=a\ b\ n\ f
+comment3.target=double\ rectangularRight(double,\ double,\ int,\ Project2a.FPFunction)
+comment4.params=a\ b\ n\ f
+comment4.target=double\ trapezium(double,\ double,\ int,\ Project2a.FPFunction)
+comment5.params=a\ b\ n\ f
+comment5.target=double\ simpsons(double,\ double,\ int,\ Project2a.FPFunction)
+comment6.params=a\ b\ n\ f\ mode
+comment6.target=double\ rectangular(double,\ double,\ int,\ Project2a.FPFunction,\ int)
+comment7.params=a\ b\ n
+comment7.target=double\ checkParamsGetRange(double,\ double,\ int)
+comment8.params=fname\ a\ b\ n\ f
+comment8.target=void\ testFunction(java.lang.String,\ double,\ double,\ int,\ Project2a.FPFunction)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=11

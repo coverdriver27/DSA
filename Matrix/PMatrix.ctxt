@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PMatrix
+comment1.params=Row\ Col
+comment1.target=PMatrix(int,\ int)
+comment2.params=
+comment2.target=PMatrix()
+comment3.params=Elements
+comment3.target=PMatrix(int[][])
+comment4.params=input
+comment4.target=Matrix\ Add(Matrix)
+comment5.params=input
+comment5.target=Matrix\ Dot(Matrix)
+comment6.params=input
+comment6.target=Matrix\ Substract(Matrix)
+comment7.params=input
+comment7.target=Matrix\ Hadamard(Matrix)
+numComments=8
